@@ -647,9 +647,29 @@ img {
     width: 33.33%;
   }
 
+  .row__medium_6 {
+    float: left;
+    width: 50%;
+  }
+
   .row__medium_8 {
     float: lefT;
     width: 66.66%;
   }
+}
+
+.section-title {
+    font-size:3.75rem;
+    font-weight: 300;
+    text-align:center;
+    color: #FFF;
+}
+
+.section-title strong {
+  font-weight:500;
+}
+
+.section-title__icon {
+  margin-right: 1.5rem;
 }
 
